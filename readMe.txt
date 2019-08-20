@@ -9,9 +9,6 @@ MoveCamera: W A S D.
 RotateCamera: Dlag with holding LeftClick.
 Same as default pawn.
 
+Current use UE4 version is4.21.2.
 
-A packaged directory contains Standalone.
-UE4 version 4.21.2.
-
-Please let me know if you don't understand something.
 
